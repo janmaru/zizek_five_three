@@ -83,7 +83,7 @@ and all the matches that we have:
 		        counter := !counter + 1
 
 
-hence we something like that:
+hence we print something like that:
 				
 			//([White; Black], C)
 			//([White; Black], B)
