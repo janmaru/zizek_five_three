@@ -54,7 +54,7 @@ Instead of introducing the concept of woman we're going to deal with the positio
 				
 				let Positions = [A;B;C]
 
-'cause we aren't interessed in the modelling about a particular male or the other but only about the color we're going to make a one distinct list:
+'cause we aren't interested in the modelling about a particular male or the other but only about the color we're going to make a one distinct list:
 
 
 		let Couples = (combinations Men Positions.Length) |> List.distinct
