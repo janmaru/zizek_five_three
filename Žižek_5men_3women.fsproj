@@ -56,6 +56,10 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <Compile Include="Scenario.fsx" />
+    <None Include=".gitignore" />
+    <None Include="copertina2.jpg" />
+    <None Include="License.md" />
+    <None Include="Readme.md" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
